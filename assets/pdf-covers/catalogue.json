@@ -5,21 +5,6 @@
     "cover": "assets/pdf-covers/01.jpg"
   },
   {
-    "title": "THE JUNIOR CYBERSECURITY HANDBOOK",
-    "pdf": "01-CYBERSECURITY-FOUNDATIONS/THE JUNIOR CYBERSECURITY HANDBOOK.pdf",
-    "cover": "assets/pdf-covers/02.jpg"
-  },
-  {
-    "title": "The Junior Cybersecurity Interview Bible",
-    "pdf": "01-CYBERSECURITY-FOUNDATIONS/The Junior Cybersecurity Interview Bible.pdf",
-    "cover": "assets/pdf-covers/03.jpg"
-  },
-  {
-    "title": "DIGITAL FORENSICS FROM ZERO",
-    "pdf": "02-DIGITAL-FORENSICS/DIGITAL FORENSICS FROM ZERO.pdf",
-    "cover": "assets/pdf-covers/04.jpg"
-  },
-  {
     "title": "INCIDENT RESPONSE AND DFIR",
     "pdf": "03-INCIDENT-RESPONSE-AND-DFIR/INCIDENT RESPONSE AND DFIR.pdf",
     "cover": "assets/pdf-covers/05.jpg"
@@ -30,14 +15,14 @@
     "cover": "assets/pdf-covers/06.jpg"
   },
   {
-    "title": "Cyber Threat Intelligence from Zero",
-    "pdf": "05-THREAT-INTELLIGENCE/Cyber Threat Intelligence from Zero.pdf",
-    "cover": "assets/pdf-covers/07.jpg"
+    "title": "AI GOVERNANCE ANALYST HANDBOOK",
+    "pdf": "10-SPECIALIZED-DEFENSIVE-SECURITY-AND-CAREER/AI GOVERNANCE ANALYST HANDBOOK.pdf",
+    "cover": "assets/pdf-covers/11.jpg"
   },
   {
-    "title": "MITRE ATT&CK FOR BEGINNERS",
-    "pdf": "05-THREAT-INTELLIGENCE/MITRE ATT&CK FOR BEGINNERS.pdf",
-    "cover": "assets/pdf-covers/08.jpg"
+    "title": "The Junior SOC Analyst Handbook",
+    "pdf": "04-SECURITY-OPERATIONS-CENTER/The Junior SOC Analyst Handbook.pdf",
+    "cover": "assets/pdf-covers/soc.jpg"
   },
   {
     "title": "THE JUNIOR GRC ANALYST HANDBOOK",
@@ -45,13 +30,44 @@
     "cover": "assets/pdf-covers/09.jpg"
   },
   {
+    "title": "DIGITAL FORENSICS FROM ZERO",
+    "pdf": "02-DIGITAL-FORENSICS/DIGITAL FORENSICS FROM ZERO.pdf",
+    "cover": "assets/pdf-covers/04.jpg"
+  },
+  {
+    "title": "THE JUNIOR CYBERSECURITY HANDBOOK",
+    "pdf": "01-CYBERSECURITY-FOUNDATIONS/THE JUNIOR CYBERSECURITY HANDBOOK.pdf",
+    "cover": "assets/pdf-covers/02.jpg"
+  },
+  {
+    "title": "Linux for Security Analysts",
+    "pdf": "01-CYBERSECURITY-FOUNDATIONS/Linux for Security Analysts.pdf",
+    "cover": "assets/pdf-covers/linux.jpg",
+    "new_row": true
+  },
+  {
+    "title": "Networking for Cybersecurity",
+    "pdf": "01-CYBERSECURITY-FOUNDATIONS/Networking for Cybersecurity.pdf",
+    "cover": "assets/pdf-covers/network.jpg"
+  },
+  {
+    "title": "The Junior Cybersecurity Interview Bible",
+    "pdf": "01-CYBERSECURITY-FOUNDATIONS/The Junior Cybersecurity Interview Bible.pdf",
+    "cover": "assets/pdf-covers/03.jpg"
+  },
+  {
+    "title": "MITRE ATT&CK FOR BEGINNERS",
+    "pdf": "05-THREAT-INTELLIGENCE/MITRE ATT&CK FOR BEGINNERS.pdf",
+    "cover": "assets/pdf-covers/08.jpg"
+  },
+  {
+    "title": "Cyber Threat Intelligence from Zero",
+    "pdf": "05-THREAT-INTELLIGENCE/Cyber Threat Intelligence from Zero.pdf",
+    "cover": "assets/pdf-covers/07.jpg"
+  },
+  {
     "title": "Cloud Security from zero",
     "pdf": "09-CLOUD-AND-INFRASTRUCTURE-SECURITY/Cloud Security from zero.pdf",
     "cover": "assets/pdf-covers/10.jpg"
-  },
-  {
-    "title": "AI GOVERNANCE ANALYST HANDBOOK",
-    "pdf": "10-SPECIALIZED-DEFENSIVE-SECURITY-AND-CAREER/AI GOVERNANCE ANALYST HANDBOOK.pdf",
-    "cover": "assets/pdf-covers/11.jpg"
   }
 ]

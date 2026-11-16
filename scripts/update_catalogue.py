@@ -22,6 +22,8 @@ for e in entries:
  title=html.escape(e['title'],quote=True)
  image=f'<img src="{quote(e["cover"],safe="/")}" alt="{title}" title="{title}" width="100%" />'
  content=f'<a href="{quote(e["pdf"],safe="/")}">{image}</a>' if pdf and pdf.is_file() else image+'<br /><strong>PDF not available</strong>'
+ if e.get('new_row') and len(cells)%3:
+  cells.extend(['<td></td>']*(3-len(cells)%3))
  cells.append('<td align="center" valign="top" width="33%">'+content+'</td>')
 rows=[]
 for i in range(0,len(cells),3):
@@ -29,7 +31,6 @@ for i in range(0,len(cells),3):
 readme=ROOT/'README.md'
 s=readme.read_text()
 s=re.sub(r'<table width="100%">.*?</table>','<table width="100%">\n'+'\n'.join(rows)+'\n</table>',s,count=1,flags=re.S)
-s=re.sub(r'Tap a cover to open its PDF\.(?:\n\n\*\*Availability:.*?\*\*)?',f'Tap a cover to open its PDF.\n\n**Availability: {available} PDFs available; {len(entries)-available} catalogued book covers without a PDF.**',s)
 readme.write_text(s)
 manifest.write_text(json.dumps(entries,indent=2,ensure_ascii=False)+'\n')
 print(f'{available} PDFs available; {len(entries)-available} covers without a PDF')
