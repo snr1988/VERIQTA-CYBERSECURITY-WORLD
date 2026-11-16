@@ -2,10 +2,6 @@
 
 **[Buy books — www.veriqtapress.com](https://www.veriqtapress.com/)**
 
-# VERIQTA CYBERSECURITY WORLD
-
-Tap a cover to open its PDF.
-
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="33%"><a href="01-CYBERSECURITY-FOUNDATIONS/THE%20CYBERSECURITY%20HOME%20LAB%20HANDBOOK.pdf"><img src="assets/pdf-covers/01.jpg" alt="THE CYBERSECURITY HOME LAB HANDBOOK" title="THE CYBERSECURITY HOME LAB HANDBOOK" width="100%" /></a></td>
