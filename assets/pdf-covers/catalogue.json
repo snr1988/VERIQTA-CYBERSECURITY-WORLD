@@ -1,0 +1,57 @@
+[
+  {
+    "title": "THE CYBERSECURITY HOME LAB HANDBOOK",
+    "pdf": "01-CYBERSECURITY-FOUNDATIONS/THE CYBERSECURITY HOME LAB HANDBOOK.pdf",
+    "cover": "assets/pdf-covers/01.jpg"
+  },
+  {
+    "title": "THE JUNIOR CYBERSECURITY HANDBOOK",
+    "pdf": "01-CYBERSECURITY-FOUNDATIONS/THE JUNIOR CYBERSECURITY HANDBOOK.pdf",
+    "cover": "assets/pdf-covers/02.jpg"
+  },
+  {
+    "title": "The Junior Cybersecurity Interview Bible",
+    "pdf": "01-CYBERSECURITY-FOUNDATIONS/The Junior Cybersecurity Interview Bible.pdf",
+    "cover": "assets/pdf-covers/03.jpg"
+  },
+  {
+    "title": "DIGITAL FORENSICS FROM ZERO",
+    "pdf": "02-DIGITAL-FORENSICS/DIGITAL FORENSICS FROM ZERO.pdf",
+    "cover": "assets/pdf-covers/04.jpg"
+  },
+  {
+    "title": "INCIDENT RESPONSE AND DFIR",
+    "pdf": "03-INCIDENT-RESPONSE-AND-DFIR/INCIDENT RESPONSE AND DFIR.pdf",
+    "cover": "assets/pdf-covers/05.jpg"
+  },
+  {
+    "title": "SIEM FROM ZERO",
+    "pdf": "04-SECURITY-OPERATIONS-CENTER/SIEM FROM ZERO.pdf",
+    "cover": "assets/pdf-covers/06.jpg"
+  },
+  {
+    "title": "Cyber Threat Intelligence from Zero",
+    "pdf": "05-THREAT-INTELLIGENCE/Cyber Threat Intelligence from Zero.pdf",
+    "cover": "assets/pdf-covers/07.jpg"
+  },
+  {
+    "title": "MITRE ATT&CK FOR BEGINNERS",
+    "pdf": "05-THREAT-INTELLIGENCE/MITRE ATT&CK FOR BEGINNERS.pdf",
+    "cover": "assets/pdf-covers/08.jpg"
+  },
+  {
+    "title": "THE JUNIOR GRC ANALYST HANDBOOK",
+    "pdf": "07-GOVERNANCE-RISK-AND-COMPLIANCE/THE JUNIOR GRC ANALYST HANDBOOK.pdf",
+    "cover": "assets/pdf-covers/09.jpg"
+  },
+  {
+    "title": "Cloud Security from zero",
+    "pdf": "09-CLOUD-AND-INFRASTRUCTURE-SECURITY/Cloud Security from zero.pdf",
+    "cover": "assets/pdf-covers/10.jpg"
+  },
+  {
+    "title": "AI GOVERNANCE ANALYST HANDBOOK",
+    "pdf": "10-SPECIALIZED-DEFENSIVE-SECURITY-AND-CAREER/AI GOVERNANCE ANALYST HANDBOOK.pdf",
+    "cover": "assets/pdf-covers/11.jpg"
+  }
+]

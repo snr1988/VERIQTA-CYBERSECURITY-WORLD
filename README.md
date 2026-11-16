@@ -6,6 +6,8 @@
 
 Tap a cover to open its PDF.
 
+**Availability: 11 PDFs available; 0 catalogued book covers without a PDF.**
+
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="33%"><a href="01-CYBERSECURITY-FOUNDATIONS/THE%20CYBERSECURITY%20HOME%20LAB%20HANDBOOK.pdf"><img src="assets/pdf-covers/01.jpg" alt="THE CYBERSECURITY HOME LAB HANDBOOK" title="THE CYBERSECURITY HOME LAB HANDBOOK" width="100%" /></a></td>
@@ -36,9 +38,9 @@ Tap a cover to open its PDF.
 - [Incident Response and DFIR](03-INCIDENT-RESPONSE-AND-DFIR/)
 - [Security Operations Center](04-SECURITY-OPERATIONS-CENTER/)
 - [Threat Intelligence](05-THREAT-INTELLIGENCE/)
-- Detection Engineering and Threat Hunting
+- Detection Engineering and Threat Hunting — **PDF not available**
 - [Governance, Risk and Compliance](07-GOVERNANCE-RISK-AND-COMPLIANCE/)
-- IT Audit and Security Assurance
+- IT Audit and Security Assurance — **PDF not available**
 - [Cloud and Infrastructure Security](09-CLOUD-AND-INFRASTRUCTURE-SECURITY/)
 - [Specialized Defensive Security and Career](10-SPECIALIZED-DEFENSIVE-SECURITY-AND-CAREER/)
 
